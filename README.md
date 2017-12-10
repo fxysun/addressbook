@@ -13,7 +13,7 @@ and display all unique contacts on selected address book.
 
 5. For all operations at address book level, there are possible existing or no existing check over address book.
 Appropriate error message appear when check fail.
-For simplicity, I don't include related check on contact operation, I think it depends on business requirement.
+For simplicity, I don't include related checks on contact operations, I think it depends on business requirement.
 
 6. I have some unit tests over some main functionalities. JUnit is only one framework imported in this code.
 
